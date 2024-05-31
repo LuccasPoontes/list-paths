@@ -67,7 +67,8 @@ if __name__ == '__main__':
     print(f'Report saved to {output_file}')
 
 
-### Saída
+## Saída
+
 O arquivo de saída file_structure.txt conterá uma lista formatada de diretórios e arquivos, como este exemplo:
 
           Directory: C:\Users\luccas.faustino\Desktop\Project
@@ -77,6 +78,7 @@ O arquivo de saída file_structure.txt conterá uma lista formatada de diretóri
           Directory: C:\Users\luccas.faustino\Desktop\Project\Subfolder
               file3.txt
 
-### Agradecimentos
+## Agradecimento
+
 O script utiliza o módulo os para interagir com o sistema operacional.
 Certifique-se de personalizar os links, nomes de repositórios e quaisquer outros detalhes específicos do projeto para adequá-los ao seu projeto real.

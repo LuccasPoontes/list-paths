@@ -65,6 +65,7 @@ if __name__ == '__main__':
     file_structure = list_files_and_directories(root_directory)
     save_to_file(file_structure, output_file)
     print(f'Report saved to {output_file}')
+```
 
 
 ## Saída
